@@ -1,0 +1,5 @@
+apache-airflow: Orchestrates and schedules the entire data pipeline workflow.
+praw: Fetches posts from the Reddit API for analysis.
+boto3: Uploads processed data to an AWS S3 bucket.
+textblob: Performs sentiment analysis on the Reddit post text.
+pandas: Handles data manipulation and cleaning for the Reddit posts.
